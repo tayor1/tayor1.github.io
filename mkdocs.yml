@@ -1,8 +1,10 @@
 site_name: 浅蓝色西柚の日記
 site_description: 浅蓝色西柚的个人网站
+site_url: https://tayor1.github.io/
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   palette:
     scheme: default
@@ -20,6 +22,9 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/home.js
 
 markdown_extensions:
   - attr_list

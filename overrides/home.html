@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block header %}{% endblock %}
+{% block tabs %}{% endblock %}
+{% block site_nav %}{% endblock %}
+{% block footer %}{% endblock %}
+
+{% block content %}
+<div class="home-theme-hooks" hidden aria-hidden="true">
+  {% include "partials/header.html" %}
+</div>
+<main class="home-scroll" id="home-scroll" aria-label="浅蓝色西柚の日記首页">
+  <section class="home-panel home-cover" id="cover" aria-labelledby="home-title">
+    <h1 id="home-title">浅蓝色西柚の日記</h1>
+    <a class="home-scroll-cue home-scroll-cue--down" href="#contents" aria-label="向下浏览内容">
+      <span></span>
+    </a>
+  </section>
+
+  <section class="home-panel home-contents" id="contents" aria-label="网站内容导航">
+    <div class="home-contents-inner">
+      <p class="home-contents-label">CONTENTS</p>
+      <nav class="home-links" aria-label="主要栏目">
+        <a href="{{ 'course/' | url }}">
+          <span class="home-link-number">01</span>
+          <strong>课程</strong>
+          <span class="home-link-arrow">→</span>
+        </a>
+        <a href="{{ 'friends/' | url }}">
+          <span class="home-link-number">02</span>
+          <strong>友链</strong>
+          <span class="home-link-arrow">→</span>
+        </a>
+        <a href="{{ 'about/' | url }}">
+          <span class="home-link-number">03</span>
+          <strong>关于</strong>
+          <span class="home-link-arrow">→</span>
+        </a>
+      </nav>
+    </div>
+    <a class="home-scroll-cue home-scroll-cue--up" href="#cover" aria-label="返回封面">
+      <span></span>
+    </a>
+  </section>
+</main>
+{% endblock %}

@@ -24,3 +24,207 @@
   box-shadow: none;
   border-bottom: 1px solid #eef1f3;
 }
+
+/* 首页：两屏纵向滚动封面 */
+html:has(.home-scroll),
+body:has(.home-scroll) {
+  overflow: hidden;
+}
+
+.md-main:has(.home-scroll),
+.md-main__inner:has(.home-scroll),
+.md-content:has(.home-scroll),
+.md-content__inner:has(.home-scroll) {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.home-scroll {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+  overscroll-behavior-y: contain;
+  background: #f5f3e7;
+}
+
+.home-panel {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100svh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+}
+
+.home-cover {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: clamp(3.5rem, 9vh, 7rem) 1.5rem 2rem;
+  background-color: #f6f4e8;
+  background-image: url("../assets/cover-wide.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.home-cover h1 {
+  margin: 0;
+  color: #13294b;
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif CJK SC", "Songti SC", STSong, serif;
+  font-size: clamp(2.3rem, 5vw, 5.2rem);
+  font-weight: 600;
+  letter-spacing: clamp(0.08em, 0.8vw, 0.18em);
+  line-height: 1.25;
+  text-align: center;
+  text-shadow: 0 2px 20px rgba(246, 244, 232, 0.9);
+  animation: home-title-in 1.2s ease-out both;
+}
+
+@keyframes home-title-in {
+  from { opacity: 0; transform: translateY(-18px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.home-scroll-cue {
+  position: absolute;
+  left: 50%;
+  width: 3rem;
+  height: 3rem;
+  transform: translateX(-50%);
+  border: 1px solid rgba(19, 41, 75, 0.45);
+  border-radius: 50%;
+  transition: background-color 0.25s ease, transform 0.25s ease;
+}
+
+.home-scroll-cue:hover {
+  background: rgba(255, 255, 255, 0.55);
+  transform: translateX(-50%) scale(1.06);
+}
+
+.home-scroll-cue span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0.72rem;
+  height: 0.72rem;
+  border-right: 1.5px solid #13294b;
+  border-bottom: 1.5px solid #13294b;
+}
+
+.home-scroll-cue--down {
+  bottom: clamp(1.5rem, 4vh, 3rem);
+  animation: home-cue-breathe 2.2s ease-in-out infinite;
+}
+
+.home-scroll-cue--down span {
+  transform: translate(-50%, -65%) rotate(45deg);
+}
+
+.home-scroll-cue--up {
+  top: clamp(1.5rem, 4vh, 3rem);
+}
+
+.home-scroll-cue--up span {
+  transform: translate(-50%, -35%) rotate(225deg);
+}
+
+@keyframes home-cue-breathe {
+  0%, 100% { transform: translateX(-50%) translateY(0); }
+  50% { transform: translateX(-50%) translateY(7px); }
+}
+
+.home-contents {
+  display: grid;
+  place-items: center;
+  padding: 7rem 1.5rem 3rem;
+  color: #13294b;
+  background:
+    radial-gradient(circle at 18% 20%, rgba(255, 255, 255, 0.85), transparent 32%),
+    #f5f3e7;
+}
+
+.home-contents-inner {
+  width: min(52rem, 88vw);
+}
+
+.home-contents-label {
+  margin: 0 0 1.6rem;
+  color: rgba(19, 41, 75, 0.56);
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.74rem;
+  letter-spacing: 0.34em;
+}
+
+.home-links {
+  border-top: 1px solid rgba(19, 41, 75, 0.35);
+}
+
+.home-links a {
+  display: grid;
+  grid-template-columns: 3.5rem 1fr auto;
+  align-items: center;
+  gap: 1rem;
+  min-height: clamp(5.2rem, 14vh, 8rem);
+  color: #13294b;
+  border-bottom: 1px solid rgba(19, 41, 75, 0.35);
+  text-decoration: none;
+  transition: padding 0.3s ease, background-color 0.3s ease;
+}
+
+.home-links a:hover {
+  padding-inline: 1.2rem;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.home-link-number {
+  color: rgba(19, 41, 75, 0.5);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+}
+
+.home-links strong {
+  font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif CJK SC", "Songti SC", STSong, serif;
+  font-size: clamp(1.8rem, 4vw, 3.2rem);
+  font-weight: 500;
+  letter-spacing: 0.16em;
+}
+
+.home-link-arrow {
+  font-size: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.home-links a:hover .home-link-arrow {
+  transform: translateX(0.45rem);
+}
+
+@media (max-width: 600px) {
+  .home-cover {
+    padding-top: 6vh;
+    background-size: auto 100%;
+  }
+
+  .home-cover h1 {
+    max-width: 90vw;
+    font-size: clamp(1.9rem, 8.5vw, 3rem);
+  }
+
+  .home-links a {
+    grid-template-columns: 2.2rem 1fr auto;
+    min-height: 6.2rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-scroll { scroll-behavior: auto; }
+  .home-cover h1,
+  .home-scroll-cue--down { animation: none; }
+}
