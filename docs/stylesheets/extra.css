@@ -144,7 +144,7 @@ body:has(.home-scroll) {
 .home-contents {
   display: grid;
   place-items: center;
-  padding: 7rem 1.5rem 3rem;
+  padding: 4.5rem 1.5rem 2.5rem;
   color: #13294b;
   background:
     radial-gradient(circle at 18% 20%, rgba(255, 255, 255, 0.85), transparent 32%),
@@ -172,7 +172,7 @@ body:has(.home-scroll) {
   grid-template-columns: 3.5rem 1fr auto;
   align-items: center;
   gap: 1rem;
-  min-height: clamp(5.2rem, 14vh, 8rem);
+  min-height: clamp(4.5rem, 10vh, 6rem);
   color: #13294b;
   border-bottom: 1px solid rgba(19, 41, 75, 0.35);
   text-decoration: none;
@@ -221,7 +221,7 @@ body:has(.home-scroll) {
 
   .home-links a {
     grid-template-columns: 2.2rem 1fr auto;
-    min-height: 6.2rem;
+    min-height: 4.8rem;
   }
 }
 

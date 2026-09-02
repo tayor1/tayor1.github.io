@@ -16,6 +16,8 @@ theme:
 
 nav:
   - 主页: index.md
+  - "日记&随想": diary/index.md
+  - 番剧记录站: anime/index.md
   - 课程: course/index.md
   - 友链: friends/index.md
   - 关于: about/index.md
