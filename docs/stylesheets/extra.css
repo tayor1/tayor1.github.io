@@ -1,0 +1,26 @@
+:root {
+  --md-default-bg-color: #fff;
+  --md-primary-fg-color: #fff;
+  --md-primary-bg-color: #263238;
+}
+
+.home-hero {
+  min-height: calc(100vh - 7rem);
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+
+.home-hero h1 {
+  margin: 0;
+  color: #263238;
+  font-size: clamp(2.8rem, 8vw, 6rem);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.md-header,
+.md-tabs {
+  box-shadow: none;
+  border-bottom: 1px solid #eef1f3;
+}
