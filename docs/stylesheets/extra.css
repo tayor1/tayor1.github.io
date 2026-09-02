@@ -65,11 +65,11 @@ body:has(.home-scroll) {
 
 .home-cover {
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  padding: clamp(3.5rem, 9vh, 7rem) 1.5rem 2rem;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 2rem clamp(2rem, 8vw, 9rem) clamp(5rem, 12vh, 8rem);
   background-color: #f6f4e8;
-  background-image: url("../assets/cover-wide.png");
+  background-image: url("../assets/cover-clean.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -78,13 +78,13 @@ body:has(.home-scroll) {
 .home-cover h1 {
   margin: 0;
   color: #13294b;
-  font-family: "Yu Mincho", "Hiragino Mincho ProN", "Noto Serif CJK SC", "Songti SC", STSong, serif;
-  font-size: clamp(2.3rem, 5vw, 5.2rem);
-  font-weight: 600;
-  letter-spacing: clamp(0.08em, 0.8vw, 0.18em);
+  font-family: "STXingkai", "华文行楷", "FZKai-Z03", "KaiTi", "楷体", "Yu Mincho", serif;
+  font-size: clamp(2.6rem, 4.5vw, 5rem);
+  font-weight: 400;
+  letter-spacing: clamp(0.05em, 0.55vw, 0.14em);
   line-height: 1.25;
-  text-align: center;
-  text-shadow: 0 2px 20px rgba(246, 244, 232, 0.9);
+  text-align: left;
+  text-shadow: 0 2px 18px rgba(246, 244, 232, 0.98), 0 0 4px rgba(246, 244, 232, 0.8);
   animation: home-title-in 1.2s ease-out both;
 }
 
@@ -208,13 +208,15 @@ body:has(.home-scroll) {
 
 @media (max-width: 600px) {
   .home-cover {
-    padding-top: 6vh;
+    justify-content: center;
+    padding: 2rem 1rem 9vh;
     background-size: auto 100%;
   }
 
   .home-cover h1 {
-    max-width: 90vw;
-    font-size: clamp(1.9rem, 8.5vw, 3rem);
+    max-width: 94vw;
+    font-size: clamp(2rem, 9vw, 3.2rem);
+    text-align: center;
   }
 
   .home-links a {
