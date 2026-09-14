@@ -5,6 +5,7 @@
 ## 文章
 
 - [妹妹人生](imouto-life.md)
+- [月色真美](tsuki-ga-kirei.md)
 
 ## 想看
 
