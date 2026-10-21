@@ -48,156 +48,156 @@
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">そっと記した夢</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Sotto shirushita yume</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">so't to shi ru shi ta yu me</span>
   <span lang="zh" style="display: block;">悄悄将梦想铭记于心</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">言い訳ばかりして</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Iiwake bakari shite</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">i i wa ke ba ka ri shi te</span>
   <span lang="zh" style="display: block;">满嘴都是借口</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">ほったらかしにしていた</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Hottarakashi ni shite ita</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ho't ta ra ka shi ni shi te ita</span>
   <span lang="zh" style="display: block;">对一切置之不理</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">変わるのが怖くて</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Kawaru no ga kowakute</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ka wa ru no ga ko wa ku te</span>
   <span lang="zh" style="display: block;">我不害怕改变</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">何があるのかも</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nani ga aru no kamo</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">na ni ga a ru no ka mo</span>
   <span lang="zh" style="display: block;">或许还会留下些什么</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">何が変わるのかも</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nani ga kawaru no kamo</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">na ni ga ka wa ru no ka mo</span>
   <span lang="zh" style="display: block;">或许还会改变些什么</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">行ってみなきゃわからない</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Itte minakya wakaranai</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">i't te mi na kya wa ka ra na i</span>
   <span lang="zh" style="display: block;">不前进的话便一无所知</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">さあ一歩前に</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Saa ippo mae ni</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">sa a i'p po ma e ni</span>
   <span lang="zh" style="display: block;">来吧</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">踏み出そう</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Fumidasou</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">fu mi da so u</span>
   <span lang="zh" style="display: block;">向前迈出一步</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">おっきな夢を叶えたくて</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Okkina yume o kanaetakute</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">o'k ki na yu me o ka na e ta ku te</span>
   <span lang="zh" style="display: block;">愿实现巨大的梦想</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">はるか遠く遠く</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Haruka tooku tooku</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ha ru ka to o ku to o ku</span>
   <span lang="zh" style="display: block;">而它却如此遥远</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">真っ白な世界に残したいな</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Masshiro na sekai ni nokoshitai na</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ma's shi ro na se ka i ni no ko shi ta i na</span>
   <span lang="zh" style="display: block;">我好想将最初的足迹</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">最初の足跡</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Saisho no ashiato</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">sa i sho no a shi a to</span>
   <span lang="zh" style="display: block;">留在这纯白的世界</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">世界の最果てで</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Sekai no saihate de</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">se ka i no sa i ha te de</span>
   <span lang="zh" style="display: block;">在世界的尽头</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">転がっていく太陽</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Korogatte iku taiyou</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ko ro ga't te i ku ta i yo u</span>
   <span lang="zh" style="display: block;">太阳渐渐升起</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">南風はやがて島を越えて</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Minamikaze wa yagate shima o koete</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">mi na mi ka ze wa ya ga te shi ma o ko e te</span>
   <span lang="zh" style="display: block;">南风最终吹过小岛</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">髪を揺らす</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Kami o yurasu</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ka mi o yu ra su</span>
   <span lang="zh" style="display: block;">吹动着我的头发</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">ちっさな夢を叶えたくて</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Chissana yume o kanaetakute</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">chi's sa na yu me o ka na e ta ku te</span>
   <span lang="zh" style="display: block;">愿实现渺小的梦想</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">願った強く強く</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Negatta tsuyoku tsuyoku</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ne ga't ta tsuyoku tsuyoku</span>
   <span lang="zh" style="display: block;">愿望如此强烈</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">履き慣れたスニーカー</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Hakinareta suniikaa</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ha ki na re ta su ni i ka a</span>
   <span lang="zh" style="display: block;">穿习惯的运动鞋</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">紐をキュッと締め直して</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Himo o kyutto shimenaoshite</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">hi mo o kyu't to shi me na o shi te</span>
   <span lang="zh" style="display: block;">将鞋带重新系紧</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">でっかい夢を叶えたくて</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Dekkai yume o kanaetakute</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">de'k ka i yu me o ka na e ta ku te</span>
   <span lang="zh" style="display: block;">愿实现巨大的梦想</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">はるか遠く遠く</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Haruka tooku tooku</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">ha ru ka to o ku to o ku</span>
   <span lang="zh" style="display: block;">而它却如此遥远</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">波に揺られてかたふりして</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nami ni yurarete katafuri shite</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">na mi ni yu ra re te ka ta fu ri shi te</span>
   <span lang="zh" style="display: block;">随着波浪摇摆</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">進んでゆくよ</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Susunde yuku yo</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">su su n de yu ku yo</span>
 </p>
 
 <p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
   <span lang="ja" style="display: block;">宇宙より遠くへ</span>
-  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Uchuu yori tooku e</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">so ra yo ri to o ku he</span>
   <span lang="zh" style="display: block;">向着比宇宙更远的地方前进</span>
 </p>
 
