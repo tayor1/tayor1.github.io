@@ -42,59 +42,163 @@
 
 踏上旅途吧，因为世界如此广阔！终有一天我会回到这里，回到比宇宙更远的地方！
 
+## ハルカトオク（遥远）
 
+<div class="haruka-lyrics">
 
-ハルカトオク (遥远) 
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">そっと記した夢</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Sotto shirushita yume</span>
+  <span lang="zh" style="display: block;">悄悄将梦想铭记于心</span>
+</p>
 
-そっと記した夢  悄悄将梦想铭记于心
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">言い訳ばかりして</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Iiwake bakari shite</span>
+  <span lang="zh" style="display: block;">满嘴都是借口</span>
+</p>
 
-言い訳ばかりして  满嘴都是借口
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">ほったらかしにしていた</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Hottarakashi ni shite ita</span>
+  <span lang="zh" style="display: block;">对一切置之不理</span>
+</p>
 
-ほったらかしにしていた  对一切置之不理
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">変わるのが怖くて</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Kawaru no ga kowakute</span>
+  <span lang="zh" style="display: block;">我不害怕改变</span>
+</p>
 
-変わるのが怖くて  我不害怕改变
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">何があるのかも</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nani ga aru no kamo</span>
+  <span lang="zh" style="display: block;">或许还会留下些什么</span>
+</p>
 
-何があるのかも  或许还会留下些什么
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">何が変わるのかも</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nani ga kawaru no kamo</span>
+  <span lang="zh" style="display: block;">或许还会改变些什么</span>
+</p>
 
-何が変わるのかも  或许还会改变些什么
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">行ってみなきゃわからない</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Itte minakya wakaranai</span>
+  <span lang="zh" style="display: block;">不前进的话便一无所知</span>
+</p>
 
-行ってみなきゃわからない  不前进的话便一无所知
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">さあ一歩前に</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Saa ippo mae ni</span>
+  <span lang="zh" style="display: block;">来吧</span>
+</p>
 
-さあ一歩前に  来吧
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">踏み出そう</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Fumidasou</span>
+  <span lang="zh" style="display: block;">向前迈出一步</span>
+</p>
 
-踏み出そう  向前迈出一步
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">おっきな夢を叶えたくて</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Okkina yume o kanaetakute</span>
+  <span lang="zh" style="display: block;">愿实现巨大的梦想</span>
+</p>
 
-おっきな夢を叶えたくて  愿实现巨大的梦想
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">はるか遠く遠く</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Haruka tooku tooku</span>
+  <span lang="zh" style="display: block;">而它却如此遥远</span>
+</p>
 
-はるか遠く遠く  而它却如此遥远
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">真っ白な世界に残したいな</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Masshiro na sekai ni nokoshitai na</span>
+  <span lang="zh" style="display: block;">我好想将最初的足迹</span>
+</p>
 
-真っ白な世界に残したいな  我好想将最初的足迹
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">最初の足跡</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Saisho no ashiato</span>
+  <span lang="zh" style="display: block;">留在这纯白的世界</span>
+</p>
 
-最初の足跡  留在这纯白的世界
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">世界の最果てで</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Sekai no saihate de</span>
+  <span lang="zh" style="display: block;">在世界的尽头</span>
+</p>
 
-世界の最果てで  在世界的尽头
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">転がっていく太陽</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Korogatte iku taiyou</span>
+  <span lang="zh" style="display: block;">太阳渐渐升起</span>
+</p>
 
-転がっていく太陽  太阳渐渐升起
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">南風はやがて島を越えて</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Minamikaze wa yagate shima o koete</span>
+  <span lang="zh" style="display: block;">南风最终吹过小岛</span>
+</p>
 
-南風はやがて島を越えて  南风最终吹过小岛
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">髪を揺らす</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Kami o yurasu</span>
+  <span lang="zh" style="display: block;">吹动着我的头发</span>
+</p>
 
-髪を揺らす  吹动着我的头发
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">ちっさな夢を叶えたくて</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Chissana yume o kanaetakute</span>
+  <span lang="zh" style="display: block;">愿实现渺小的梦想</span>
+</p>
 
-ちっさな夢を叶えたくて  愿实现渺小的梦想
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">願った強く強く</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Negatta tsuyoku tsuyoku</span>
+  <span lang="zh" style="display: block;">愿望如此强烈</span>
+</p>
 
-願った強く強く  愿望如此强烈
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">履き慣れたスニーカー</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Hakinareta suniikaa</span>
+  <span lang="zh" style="display: block;">穿习惯的运动鞋</span>
+</p>
 
-履き慣れたスニーカー  穿习惯的运动鞋
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">紐をキュッと締め直して</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Himo o kyutto shimenaoshite</span>
+  <span lang="zh" style="display: block;">将鞋带重新系紧</span>
+</p>
 
-紐をキュッと締め直して  将鞋带重新系紧
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">でっかい夢を叶えたくて</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Dekkai yume o kanaetakute</span>
+  <span lang="zh" style="display: block;">愿实现巨大的梦想</span>
+</p>
 
-でっかい夢を叶えたくて  愿实现巨大的梦想
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">はるか遠く遠く</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Haruka tooku tooku</span>
+  <span lang="zh" style="display: block;">而它却如此遥远</span>
+</p>
 
-はるか遠く遠く  而它却如此遥远
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">波に揺られてかたふりして</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Nami ni yurarete katafuri shite</span>
+  <span lang="zh" style="display: block;">随着波浪摇摆</span>
+</p>
 
-波に揺られてかたふりして  随着波浪摇摆
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">進んでゆくよ</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Susunde yuku yo</span>
+</p>
 
-進んでゆくよ 
+<p class="lyric-verse" style="margin: 0 0 1.45em; line-height: 1.8;">
+  <span lang="ja" style="display: block;">宇宙より遠くへ</span>
+  <span class="lyric-romaji" lang="ja-Latn" style="display: block; color: #757575; font-size: 0.84em; letter-spacing: 0.02em;">Uchuu yori tooku e</span>
+  <span lang="zh" style="display: block;">向着比宇宙更远的地方前进</span>
+</p>
 
-宇宙より遠くへ  向着比宇宙更远的地方前进
-
+</div>
