@@ -7,6 +7,10 @@
 - [妹妹人生](imouto-life.md)
 - [月色真美](tsuki-ga-kirei.md)
 
+- [比宇宙更遥远的地方](a-place-further-than-the-universe.md)
+
+- [描绘直至生命尽头](draw-until-the-end-of-life.md)
+
 ## 想看
 
 - 安达与岛村
